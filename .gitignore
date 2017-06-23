@@ -1,6 +1,7 @@
 data
 log
 node_modules
+.DS_Store
 
 # Built Assets
 src/public/index.css
